@@ -8,3 +8,9 @@ h1 {
   color: white;
 
 }
+
+.container {
+  border: 3px solid red;
+  background-color: #ccc;
+
+}
